@@ -1,0 +1,67 @@
+body
+{
+font-family: Constantia;
+font-size: 20px;
+text-align: center;
+color: white;
+list-style-type: none;
+background: url(back3.jpg) no-repeat;
+background-size: cover;
+}
+
+header span {
+  font-family: Showcard Gothic;
+  font-size: 50px;
+  color: lightpink;
+}
+
+
+a {
+  color: yellow;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.gallery
+{
+list-style-type: none;
+text-align: center;
+color: black;
+padding: 15px;
+border: solid;
+border-color: #599a68;
+
+}
+ ol li {
+   list-style-type: none;
+   text-align: center;
+   font-weight: bolder;
+ }
+
+ img {
+display: block;
+   	max-width: 500px;
+   	margin: 0 auto 30px;
+   	border-radius: 100%;
+    border: solid;
+border-color: #599a68;
+
+}
+section ul li p {
+  color: lightgreen;
+  font-size: 25px;
+  font-weight: lighter;
+} 
+
+section video {
+  max-width: 500px;
+    margin: 0 auto 30px;
+    border-radius: 20%;
+
+}
+
+h4 {
+color: green;
+text-align: center;
+font-family: SketchFlow Print;
+}
